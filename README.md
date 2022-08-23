@@ -12,6 +12,7 @@ _Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)_
 ### git
 
 - [clone to worktree](./git/clone-to-worktree.md)
+- [push to multiple servers](./git/push-to-multiple-servers.md)
 
 ### neovim
 
